@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Site Settings
 title: Jekflix | A theme for Jekyll
 email: youremail@xyz.com
@@ -41,3 +42,6 @@ links:
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
+=======
+theme: jekyll-theme-slate
+>>>>>>> a7ad598f5bfefca62c4008adafa12d363f805f46

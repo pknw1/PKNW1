@@ -1,5 +1,9 @@
+<<<<<<< HEAD
 # Jekflix Template
 ![Cover Image](http://res.cloudinary.com/dm7h7e8xj/image/upload/v1505354182/jekflix-logo_mfngps.png)
+=======
+## Welcome to GitHub Pagez
+>>>>>>> a7ad598f5bfefca62c4008adafa12d363f805f46
 
 See the [demo here](https://www.rossener.com/jekflix-template).
 
