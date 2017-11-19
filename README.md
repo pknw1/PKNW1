@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub Pagez
 
 You can use the [editor on GitHub](https://github.com/pknw1/docs/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
