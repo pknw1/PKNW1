@@ -1,10 +1,9 @@
-<<<<<<< HEAD
 # Site Settings
 title: Jekflix | A theme for Jekyll
 email: youremail@xyz.com
 description: Some text about your blog.
-baseurl: "/" # the subpath of your site, e.g. /blog
-url: "https://github.pknw1.co.uk" # the base hostname & protocol for your site
+baseurl: "/jekflix-template" # the subpath of your site, e.g. /blog
+url: "https://www.rossener.com" # the base hostname & protocol for your site
 google_analytics: "UA-XXXXXXXX-X"
 
 # User Settings
@@ -42,6 +41,3 @@ links:
 
 # Exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
-=======
-theme: jekyll-theme-Jetflix
->>>>>>> a7ad598f5bfefca62c4008adafa12d363f805f46
